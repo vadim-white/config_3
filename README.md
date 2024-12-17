@@ -106,7 +106,7 @@
 3. Запустить эмулятор
    
    ```html
-   python3 translator.py input.xml
+   python3 main.py input.toml
    ```
 
 4. Пример результата
