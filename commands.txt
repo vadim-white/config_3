@@ -1,0 +1,5 @@
+python3 main.py test_1.toml
+python3 main.py test_2.toml
+python3 main.py test_3.toml
+python3 -m unittest 
+

@@ -1,0 +1,13 @@
+#|
+Конфигурация для пользователей
+|#
+
+user1 = "admin"
+user2 = "guest"
+
+access_level1 = 5
+access_level2 = 3
+
+calculated_access_level = .[access_level1 access_level2 +].
+
+permissions = ['read', 'write', 'execute']
